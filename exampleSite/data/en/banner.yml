@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
+  bg_image_webp: "/images/4l6a7124.webp"
   bg_image: "/images/4l6a7124.JPG"
   icon: ''
   title: Log Home Finishing
